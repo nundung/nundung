@@ -36,14 +36,18 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nundung&show_icons=true&theme=dracula)
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjochong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D31515&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnundung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D31515&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nundung)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nundung&show_icons=true&theme=dracula)
+<br/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=24)
