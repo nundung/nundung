@@ -1,8 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jochong&fontSize=90&customColorList=24)-
 <div align=center>
 
-### 👋 **HI I'm Ta👋
+### 👋 **HI I'm TaeEun👋
 #### Inha University
 
 <br/>
@@ -29,13 +27,8 @@
 <img src="https://img.shields.io/badge/amazone S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white">
-<img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 
 <br/>
-
-<br/>
-
 
 #### TOOL
 
@@ -45,8 +38,12 @@
 <br/>
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nundung)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjochong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D31515&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nundung)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=24)
