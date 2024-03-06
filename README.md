@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=nundung&fontSize=90&customColorList=24&)
 <div align=center>
+  
+### HI I'm TaeEun👋
 
-### 👋 **HI I'm TaeEun👋
 #### Inha University
 
 <br/>
