@@ -3,9 +3,11 @@
 <div align="center">
   <header>
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,8,14,15,16,17,18&height=280&width=100%&text=nundung&fontAlignY=40&desc=Tae%20Eun%20Jeong&descAlignY=55&"
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,4,8,14,15,16,17,18&height=280&width=100%&text=nundung&fontAlignY=40&desc=Tae%20Eun%20Jeong&descAlignY=55"
     />
   </header>
+
+<br>
 
   <h3>✨ Tech Stack ✨</h3>
   <div>
@@ -50,12 +52,16 @@
     />
   </div>
 
+<br>
+
   <h3>📚 Studying 📚</h3>
   <div>
     <img
       src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"
     />
   </div>
+
+<br>
 
   <h3>🛠️ Tool 🛠️</h3>
   <div>
@@ -77,12 +83,7 @@
     />
   </div>
 
-<div>
-  ![Top
-    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nundung&show_icons=true&theme=dracula)
-  ![Anurag's GitHub
-    stats](https://github-readme-stats.vercel.app/api?username=nundung&show_icons=true&theme=dracula)
-</div>
+<br>
 
   <h3>💌 Contact 💌</h3>
   <div>
@@ -102,6 +103,14 @@
       />
     </a>
   </div>
-</div>
 
-<img />
+<br>
+<br>
+
+
+![Top
+    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nundung&show_icons=true&theme=dracula)
+![Anurag's GitHub
+    stats](https://github-readme-stats.vercel.app/api?username=nundung&show_icons=true&theme=dracula)
+
+</div>
