@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=nundung&fontSize=90&customColorList=24&)
-<div align=center>
-  
+
 ### HI I'm TaeEun👋
 
 #### Inha University
@@ -51,12 +49,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nundung&show_icons=true&theme=dracula)
 <br/>
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=24)
-<!--
-**nundung/nundung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
